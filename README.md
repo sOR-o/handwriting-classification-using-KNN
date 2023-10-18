@@ -6,3 +6,5 @@ In this project, process of classifying handwritten digits (0-9) from the MNIST 
 1. Clone the Repository
 2. Install Dependencies : `pip install -r req.txt`
 3. Open the jupyter lab : `jupyter lab`
+
+Can be improved by transfer learning (obviously 😉)
